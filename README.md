@@ -1,5 +1,5 @@
 ## BakkesMod process automation
-BakkesMod process automation allows [BakkesMod](https://www.bakkesmod.com/download.php) to start automatically when [Rocket League](https://www.rocketleague.com/) is being launched/stopped.
+BakkesMod process automation allows [BakkesMod](https://www.bakkesmod.com/download.php) to start/stop automatically when [Rocket League](https://www.rocketleague.com/) is being launched/stopped.
 You will no longer need to run BakkesMod at the startup keeping it in background, or open it manually after opening Rocket League.
 
 Once installed, the app will start running in background forever at any system boot, so its process is completely automatic and you won't have to do nothing with it.
